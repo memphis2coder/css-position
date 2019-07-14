@@ -1,0 +1,25 @@
+.box {
+    border: 5px solid aqua;
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.item-1 {
+    width: 200px;
+    height: 200px;
+    background: lightgreen;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.item-2 {
+    width: 200px;
+    height: 200px;
+    background: lightsalmon;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
